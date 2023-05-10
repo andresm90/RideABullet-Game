@@ -1,0 +1,3 @@
+text = "In a distant future, humanity faced a severe energy crisis that threatened its survival. To solve this problem, a team of scientists developed a new type of robot, designed to travel through space bullets and collect energy. Soon enough they became vital part of the military's energy collection efforts to save the planet.";
+textOnDisplay = "";
+alarm[0] = 3; //ejecuta por primera vez el evento
